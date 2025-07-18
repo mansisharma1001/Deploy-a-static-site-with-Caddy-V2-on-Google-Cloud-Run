@@ -1,1 +1,0 @@
-# Deploy-a-static-site-with-Caddy-V2-on-Google-Cloud-Run
